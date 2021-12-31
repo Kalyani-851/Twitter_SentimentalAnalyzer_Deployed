@@ -167,6 +167,6 @@ def main():
 
                 df = get_data(raw_text)
                 st.write(df)
-    st.subheader(">>>>>>>>>>>>Made by Charan Solasu😊<<<<<<<<<<<<<")
+    
 if __name__ == "__main__":
 	main()
